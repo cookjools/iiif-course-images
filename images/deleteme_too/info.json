@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 26,
+    "height" : 38
+  }, {
+    "width" : 52,
+    "height" : 75
+  }, {
+    "width" : 103,
+    "height" : 150
+  }, {
+    "width" : 206,
+    "height" : 300
+  }, {
+    "width" : 411,
+    "height" : 600
+  }, {
+    "width" : 821,
+    "height" : 1200
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 821,
+  "@id" : "https://cookjools.github.io/iiif-course-images/images/deleteme_too",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1200
+}
