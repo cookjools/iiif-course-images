@@ -8,5 +8,7 @@ That creates Level 0 IIIF images using a folder structure under the /images/ fol
 
 and full sized image via IIIF Image API at [https://cookjools.github.io/iiif-course-images/images/deleteme_too/full/full/0/default.jpg](https://cookjools.github.io/iiif-course-images/images/deleteme_too/full/full/0/default.jpg)
 
+To view in OpenSeaDragon Image viewer try [https://iiif.gdmrdigital.com/openseadragon/index.html?image=https://cookjools.github.io/iiif-course-images/images/deleteme_too/info.json](https://iiif.gdmrdigital.com/openseadragon/index.html?image=https://cookjools.github.io/iiif-course-images/images/deleteme_too/info.json)
+
 For more info see [https://training.iiif.io/iiif-bl-workshop/day-two/image-servers/level0-workbench.html](https://training.iiif.io/iiif-bl-workshop/day-two/image-servers/level0-workbench.html)
 
