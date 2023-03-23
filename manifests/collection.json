@@ -1,0 +1,13 @@
+{
+  "id" : "https://cookjools.github.io/iiif-course-images/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in cookjools/iiif-course-images project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cookjools.github.io/iiif-course-images/manifests/script_created_manifest_add_ms_27261_MODIFIED.json",
+    "label" : "Add. MS 27261 Khamsah and 22 other texts (modified)."
+  } ]
+}
