@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Prophet Muhammad",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Prophet Muhammad</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/2018669",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-23T10:07:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679566073023",
+    "dcterms:modified" : "2023-03-23T10:07:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://cookjools.github.io/iiif-course-images/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1854,1559,1319,1504"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2046.70482,1779.00934c121.79848,-126.29241 293.61497,-220.33808 466.26408,-220.22572v0v0c172.64911,0.11236 323.05544,88.09057 466.26408,220.22572c143.20863,132.13515 198.87202,333.4836 193.1329,531.67193c-5.73911,198.18832 -72.88071,393.2165 -193.1329,531.67193c-120.25219,138.45542 -293.61497,220.33808 -466.26408,220.22572c-172.64911,-0.11236 -344.58454,-82.21974 -466.26408,-220.22572c-121.67953,-138.00598 -193.10317,-331.91056 -193.1329,-531.67193c-0.02974,-199.76137 71.33442,-405.37952 193.1329,-531.67193z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_6461ccc9-d2d0-4229-84f7-a773833538e6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://f8645d32-e2b5-48a3-a46d-21c39e8ed829/canvas_11"
+    } ]
+  } ],
+  "@id" : "https://cookjools.github.io/iiif-course-images/annotations/annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
