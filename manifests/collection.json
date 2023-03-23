@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://cookjools.github.io/iiif-course-images/manifests/script_created_manifest_add_ms_27261_MODIFIED.json",
     "label" : "Add. MS 27261 Khamsah and 22 other texts (modified)."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cookjools.github.io/iiif-course-images/manifests/manifest3.json",
+    "label" : "Add. MS 27261 Khamsah and 22 other texts (modified)."
   } ]
 }
