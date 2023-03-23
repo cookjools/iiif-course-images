@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://cookjools.github.io/iiif-course-images/annotations/annotations.json" ],
+  "@id" : "https://cookjools.github.io/iiif-course-images/annotations/collection.json",
+  "label" : "All annotations loaded in cookjools/iiif-course-images project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
